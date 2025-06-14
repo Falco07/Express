@@ -1,0 +1,38 @@
+20250604	10:54:51	e4e65ba9-c679-4a5b-96f7-2a623a3a2497	Error : Not allowed by CORS
+20250605	11:39:42	949d2d4d-171e-4d55-a205-d2a293f2097f	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250605	11:41:15	bd0deb23-9519-4464-8115-c8003b58aa4c	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250605	11:42:54	2f8faaac-8309-4778-9719-d6cd35f7c4d3	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250605	11:42:56	3eb9fc74-809d-4698-8177-21f463418283	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250605	11:42:57	92453998-1f48-4963-a55b-349fa0625c9f	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250605	11:44:03	ab85b191-e387-420d-8f99-2d226301e24d	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250605	11:44:44	f24d3d36-2552-4e7c-a37d-5eec3a6fbdc9	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250605	11:49:04	ece89d19-f3e8-48cf-aced-0ffbe907ed59	TypeError : Cannot destructure property 'firstname' of 'req.body' as it is undefined.
+20250605	11:49:05	dbfb6e23-f800-4df7-be90-4ef43a285e66	TypeError : Cannot destructure property 'firstname' of 'req.body' as it is undefined.
+20250605	11:49:06	c03b2772-931e-49cd-8155-9971f8a7b68a	TypeError : Cannot destructure property 'firstname' of 'req.body' as it is undefined.
+20250605	11:49:07	f7a403b3-b040-4421-8474-d855251df2f9	TypeError : Cannot destructure property 'firstname' of 'req.body' as it is undefined.
+20250605	11:49:08	f1ca2f90-e8cd-4626-98a5-418ac0eb0572	TypeError : Cannot destructure property 'firstname' of 'req.body' as it is undefined.
+20250605	11:50:00	2a80259e-57ed-4906-b501-1b6d1bc37c30	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250605	11:50:02	6bf4517a-f0d7-4c5e-b1e9-5df456948ad4	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250605	11:51:52	039af060-c422-4690-8f7d-0c4d2bdfcfe4	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250610	10:38:39	a8a030f1-afba-4a32-86b0-ef463064de96	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250610	10:44:50	9c460e0b-33af-451e-a42a-8ee904327876	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250610	10:47:28	a958b412-59f9-4e77-acda-1345c22caa89	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250610	10:47:29	26c79300-113a-447b-bee7-95b430f24ec4	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250610	10:47:30	588f8c32-0cde-43f8-93dc-5395c344bf7e	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250610	10:47:30	ebc5d508-c57a-41b4-9959-9770dc3104ba	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250610	10:47:30	102cbb0f-224a-4bc6-9ff9-1207787e5935	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250610	10:47:30	acea0d52-8109-408a-9282-0942a5069b3b	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250610	14:30:15	de22a297-86f8-4652-a561-0cd0f1af3da2	TypeError : Cannot read properties of undefined (reading 'find')
+20250610	14:30:21	d4262da0-d599-4a06-9cbf-4f6f4b902fe1	TypeError : Cannot read properties of undefined (reading 'find')
+20250610	14:30:22	04f3582e-c32d-404a-be1c-138aacccbe61	TypeError : Cannot read properties of undefined (reading 'find')
+20250610	17:38:28	aaef045d-4146-4a0e-8e7b-c43b8a04b4c8	ReferenceError : usersDB is not defined
+20250610	17:38:29	85e6cbde-792b-4854-9461-d979d2b0f06d	ReferenceError : usersDB is not defined
+20250610	17:38:31	9cb99016-f055-473d-b1d8-d6f59648cc53	ReferenceError : usersDB is not defined
+20250610	17:38:31	730fd16e-d979-429b-8d25-5e39cbb839a6	ReferenceError : usersDB is not defined
+20250610	17:38:32	ecbd8138-2815-45f8-9cf4-db3dd1f1aa20	ReferenceError : usersDB is not defined
+20250610	17:38:32	68efe9bb-09d5-4c27-b099-16e02685a9cb	ReferenceError : usersDB is not defined
+20250610	17:38:33	c916d69d-f52d-4c10-b509-5cc59c6f46eb	ReferenceError : usersDB is not defined
+20250610	17:38:34	144efde4-0aad-4961-a99f-3aa474344fc4	ReferenceError : usersDB is not defined
+20250612	17:31:32	61f32c43-e7d6-4918-9ee1-cf1cc50e0b2e	ReferenceError : refreshToken is not defined
+20250612	17:31:55	732f5a30-a883-4070-a17a-8d366d1964d0	ReferenceError : refreshToken is not defined
+20250612	17:33:20	ac468e0e-95e0-4cd3-84cc-09ba43dc456a	ReferenceError : refreshToken is not defined
